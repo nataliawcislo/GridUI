@@ -12,4 +12,4 @@ Columns: 2
 
 
 # Style
-![text](https://github.com/nataliawcislo/GridUI/blob/master/Grid.png)
+![text](https://github.com/nataliawcislo/GridUI/blob/master/Gird.png)
