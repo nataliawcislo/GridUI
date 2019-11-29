@@ -15,9 +15,9 @@ Columns: 2
 
 
 
-# Style - PHOTO
+# Style
 ![text](https://github.com/nataliawcislo/GridUI/blob/master/Gird.png)
 
 
-# Style - GIF
+
 ![text](https://github.com/nataliawcislo/GridUI/blob/master/Grid.gif)
